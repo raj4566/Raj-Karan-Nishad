@@ -1,18 +1,16 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="Raj Karan Nishad — Software Developer and AI enthusiast" width="100%" />
+# Hey, I'm Raj Karan Nishad 👋
 
-<br />
+### Software Developer · AI/ML Explorer · Building useful things
 
-**Software Developer** &nbsp;·&nbsp; **AI & Computer Vision** &nbsp;·&nbsp; **Full-Stack Engineering**
+**Python • Full-Stack Development • Computer Vision • Applied AI**
 
-Building thoughtful software, from intelligent applications to practical web experiences.
+[![GitHub](https://img.shields.io/badge/GitHub-raj4566-181717?style=for-the-badge&logo=github)](https://github.com/raj4566)
+[![Email](https://img.shields.io/badge/Email-Let's%20talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajkaran4566@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-rajkaran4566-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/rajkaran4566/)
 
-[![Portfolio](https://img.shields.io/badge/Explore-Projects-2563EB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raj4566?tab=repositories)
-[![Email](https://img.shields.io/badge/Get_in-Touch-111827?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajkaran4566@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/rajkaran4566/)
-
-<img src="https://komarev.com/ghpvc/?username=raj4566&label=Profile+views&color=2563eb&style=flat-square" alt="Profile view counter" />
+![Profile views](https://komarev.com/ghpvc/?username=raj4566&label=Profile%20views&color=58a6ff&style=flat-square)
 
 </div>
 
