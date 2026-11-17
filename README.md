@@ -1,33 +1,112 @@
-<h1 align="center">Hi 👋, I'm Raj Karan Nishad</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raj4566&label=Profile%20views&color=0e75b6&style=flat" alt="raj4566" /> </p>
+# Hey, I'm Raj Karan Nishad 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raj4566" alt="raj4566" /></a> </p>
+### Software Developer · AI/ML Explorer · Building useful things
 
-- 🔭 I’m currently working on [Research agent](https://github.com/raj4566/python-ai-research-agent)
+**Python • Full-Stack Development • Computer Vision • Applied AI**
 
-- 🌱 I’m currently learning **MERN and AI TECH STACKS**
+[![GitHub](https://img.shields.io/badge/GitHub-raj4566-181717?style=for-the-badge&logo=github)](https://github.com/raj4566)
+[![Email](https://img.shields.io/badge/Email-Let's%20talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajkaran4566@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-rajkaran4566-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/rajkaran4566/)
 
-- 👯 I’m looking to collaborate on **AI invigilator**
+![Profile views](https://komarev.com/ghpvc/?username=raj4566&label=Profile%20views&color=58a6ff&style=flat-square)
 
-- 🤝 I’m looking for help with [Offline UPI](https://github.com/raj4566/UPI-offline)
+</div>
 
-- 👨‍💻 All of my projects are available at [https://github.com/raj4566?tab=repositories](https://github.com/raj4566?tab=repositories)
+---
 
-- 📫 How to reach me **rajkaran4566@gmail.com**
+## 👨‍💻 About me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/raj karan nishad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raj karan nishad" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rajkaran4566" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rajkaran4566" height="30" width="40" /></a>
-</p>
+- 🔭 Building a [Python AI Research Agent](https://github.com/raj4566/python-ai-research-agent)
+- 🧠 Exploring **AI/ML, MERN, and practical automation**
+- 🤝 Interested in collaborating on **AI-powered invigilation** and computer vision
+- 💡 Exploring an [Offline UPI concept](https://github.com/raj4566/UPI-offline)
+- 📍 Based in India · 📫 **rajkaran4566@gmail.com**
+- 🗂️ [Browse all my repositories](https://github.com/raj4566?tab=repositories)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## 🧰 Tech stack
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raj4566&show_icons=true&locale=en&layout=compact" alt="raj4566" /></p>
+**Languages & frontend**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raj4566&show_icons=true&locale=en" alt="raj4566" /></p>
+![Skills](https://skillicons.dev/icons?i=python,java,c,cpp,js,ts,html,css,react,bootstrap,tailwind&perline=11)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raj4566&" alt="raj4566" /></p>
+**Backend, data & AI**
+
+![Skills](https://skillicons.dev/icons?i=nodejs,express,django,flask,mongodb,mysql,postgres,firebase,pytorch,tensorflow,opencv&perline=11)
+
+**Tools & cloud**
+
+![Skills](https://skillicons.dev/icons?i=git,github,docker,aws,postman,androidstudio&perline=11)
+
+## 📊 GitHub at a glance
+
+<!-- These local SVGs are generated by the included GitHub Actions workflow. -->
+<div align="center">
+
+![GitHub profile overview](./assets/overview.svg)
+
+![Contribution activity graph](./assets/contributions.svg)
+
+![Contribution and community activity](./assets/activity.svg)
+
+</div>
+
+> **Stats note:** Public repository and star counts are sourced from GitHub's API. The contribution heatmap and activity totals are generated from GitHub's GraphQL API. The community chart tracks pull requests, issues and code reviews — not comment counts. The workflow refreshes the graphics daily.
+
+## 🚀 Featured projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [AI Research Agent](https://github.com/raj4566/python-ai-research-agent)
+An AI research-agent project focused on exploring intelligent research workflows.
+
+[**Explore repository →**](https://github.com/raj4566/python-ai-research-agent)
+
+</td>
+<td width="50%" valign="top">
+
+### 💳 [Offline UPI](https://github.com/raj4566/UPI-offline)
+An exploration of offline payment experiences and connectivity constraints.
+
+[**Explore repository →**](https://github.com/raj4566/UPI-offline)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 👁️ AI Invigilation Dashboard
+A React + Flask project using OpenCV for attendance, live monitoring and alerts.
+
+**Repository link:** Add when published.
+
+</td>
+<td width="50%" valign="top">
+
+### 🗂️ [More projects](https://github.com/raj4566?tab=repositories)
+Explore experiments, applications, and ongoing development work.
+
+[**View all repositories →**](https://github.com/raj4566?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+## 🤝 Let's connect
+
+I'm open to conversations about software development, AI/ML projects, and interesting collaborations.
+
+**[GitHub](https://github.com/raj4566) · [LeetCode](https://leetcode.com/rajkaran4566/) · [Email](mailto:rajkaran4566@gmail.com)**
+
+<!-- Add your verified LinkedIn profile URL here. The original link contained spaces and was not valid. -->
+
+<div align="center">
+
+---
+
+*Thanks for visiting — feel free to explore my work and reach out!* ✨
+
+</div>
